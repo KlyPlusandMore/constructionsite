@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77ec77dd.css",
+    "main.js": "/static/js/main.99d323b0.js",
+    "static/media/construction.jpg": "/static/media/construction.a694d03584cc96b0cfa1.jpg",
+    "static/media/project3.jpg": "/static/media/project3.c3d2d7565b306fbf5f4e.jpg",
+    "static/media/infrastructure.jpg": "/static/media/infrastructure.352a771f238054581757.jpg",
+    "static/media/plan_de_construction_maison.jpg": "/static/media/plan_de_construction_maison.4733bd86177e8bf4130f.jpg",
+    "static/media/Residential.jpg": "/static/media/Residential.1df936888771eb08653e.jpg",
+    "static/media/indus.jpg": "/static/media/indus.b4300547fdbffd3715a0.jpg",
+    "static/media/house_repair.jpg": "/static/media/house_repair.9e5ac4bb74c66a6cabcb.jpg",
+    "static/media/logo kratos.jpg": "/static/media/logo kratos.cd4325d4c5faa4268cfa.jpg",
+    "static/media/images (10).jpeg": "/static/media/images (10).17a7da8db590a151c18b.jpeg",
+    "index.html": "/index.html",
+    "main.77ec77dd.css.map": "/static/css/main.77ec77dd.css.map",
+    "main.99d323b0.js.map": "/static/js/main.99d323b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ec77dd.css",
+    "static/js/main.99d323b0.js"
+  ]
+}

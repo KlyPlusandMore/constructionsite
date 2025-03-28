@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaArrowRight, FaPhone, FaMapMarkerAlt, FaClock } from 'react-icons/fa';
+import { FaArrowRight, FaPhone } from 'react-icons/fa';
 
 const HeroSection = () => {
   return (

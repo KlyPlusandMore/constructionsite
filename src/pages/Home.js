@@ -1,6 +1,5 @@
 import React from 'react';
-import Navbar from '../components/layout/Navbar';
-import Footer from '../components/layout/Footer';
+
 import HeroSection from '../components/home/HeroSection';
 import House3D from '../components/home/House3D';
 import WhyChooseUsSection from '../components/home/WhyChooseUsSection';

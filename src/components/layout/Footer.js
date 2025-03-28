@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaPhone, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
+import { FaFacebook,FaPhone, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
 import './Footer.css';
 
 const Footer = () => {
@@ -11,10 +11,8 @@ const Footer = () => {
           <h3>KRATOS CONSTRUCTION</h3>
           <p>Building Gabon's future with precision and excellence. Your trusted partner in construction and development.</p>
           <div className="social-links">
-            <a href="#"><FaFacebook /></a>
-            <a href="#"><FaTwitter /></a>
-            <a href="#"><FaLinkedin /></a>
-            <a href="#"><FaInstagram /></a>
+            <a href="https://www.facebook.com/profile.php?id=100069012528008"><FaFacebook /></a>
+            
           </div>
         </div>
 

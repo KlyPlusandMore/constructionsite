@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 
 const ProjectsGrid = () => {
-  const [filter, setFilter] = useState('all');
+  const [ setFilter] = useState('all');
 
   const projects = [
     {
